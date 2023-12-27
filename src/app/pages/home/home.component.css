@@ -1,4 +1,8 @@
-.artivcles__main {
+.container__articles {
+  margin: 3rem 2rem 0 0;
+}
+
+.articles__main {
   display: flex;
   width: 100%;
 }

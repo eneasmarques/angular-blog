@@ -16,6 +16,10 @@ body {
   padding: 0 3rem;
 }
 
+a {
+  text-decoration: none;
+}
+
 p {
   font-family: Poppins, "Helvetica Neue", sans-serif;
 }
