@@ -1,0 +1,8 @@
+.artivcles__main {
+  display: flex;
+  width: 100%;
+}
+
+.big-card {
+  width: 50%;
+}

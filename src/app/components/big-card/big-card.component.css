@@ -1,0 +1,18 @@
+.container__big-card {
+  padding: 3rem 2rem 0 0;
+}
+
+.big-card__photo {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.big-card__title {
+  font-family: "Poppins";
+  font-weight: 900;
+  margin-bottom: 0.5rem;
+}
+
+.big-card__description {
+  color: #6d6d6d;
+}
