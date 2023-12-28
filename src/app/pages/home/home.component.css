@@ -1,12 +1,14 @@
 .container__articles {
-  margin: 3rem 2rem 0 0;
-}
-
-.articles__main {
   display: flex;
-  width: 100%;
+  margin-top: 3rem;
 }
 
-.big-card {
+.articles__others {
+  display: flex;
+  flex-direction: column;
+}
+
+.articles__main,
+.articles__others {
   width: 50%;
 }

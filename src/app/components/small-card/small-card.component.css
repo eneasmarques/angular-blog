@@ -1,0 +1,26 @@
+.container__small-card {
+  display: flex;
+  margin-left: 2rem;
+  max-width: 100%;
+  margin-bottom: 2rem;
+}
+
+.container__small-card {
+  border-bottom: 0.094rem solid #202020;
+  margin-bottom: 2rem;
+
+  padding-bottom: 2rem;
+}
+
+.small-card__photo {
+  width: 22rem;
+  height: 9rem;
+  object-fit: cover;
+  margin-right: 1.5rem;
+}
+
+.small-card__title {
+  font-family: "Poppins";
+  font-weight: 900;
+  margin-bottom: 0.5rem;
+}
