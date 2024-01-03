@@ -25,6 +25,18 @@ a {
   text-decoration: none;
 }
 
+@media screen and (min-width: 2879px) {
+  html {
+    font-size: 250%;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  html {
+    font-size: 150%;
+  }
+}
+
 @media screen and (max-width: 1200px) {
   html {
     font-size: 85%;
