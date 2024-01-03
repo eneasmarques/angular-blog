@@ -7,4 +7,6 @@ import { Component, Input } from '@angular/core';
 })
 export class SmallCardComponent {
   @Input() isLastCard: boolean = false;
+  @Input() photoCover: string = '';
+  @Input() cardTitle: string = '';
 }
