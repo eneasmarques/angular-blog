@@ -1,5 +1,5 @@
 .container__big-card {
-  margin-right: 2rem;
+  margin-right: 1.5rem;
 }
 
 .big-card__photo {
@@ -15,4 +15,10 @@
 
 .big-card__description {
   color: #6d6d6d;
+}
+
+@media screen and (max-width: 576px) {
+  .container__big-card {
+    margin-right: 0;
+  }
 }

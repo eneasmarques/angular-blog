@@ -1,8 +1,8 @@
 .container__small-card {
   display: flex;
-  margin-left: 2rem;
+  margin-left: 1.5rem;
   max-width: 100%;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 .small-card__photo {
@@ -20,7 +20,14 @@
 
 .small-card__horizontal-line {
   border-bottom: 0.094rem solid #202020;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 
-  padding-bottom: 2rem;
+  padding-bottom: 1.5rem;
+}
+
+@media screen and (max-width: 576px) {
+  .container__small-card {
+    margin-right: 0;
+    margin-left: 0;
+  }
 }
