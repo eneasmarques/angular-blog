@@ -1,4 +1,7 @@
+<app-menu-bar></app-menu-bar>
+
 <app-menu-title></app-menu-title>
+
 <main>
   <div class="container__articles">
     <div class="articles__main">
@@ -7,7 +10,7 @@
     <div class="articles__others">
       <app-small-card></app-small-card>
       <app-small-card></app-small-card>
-      <app-small-card></app-small-card>
+      <app-small-card [isLastCard]="true"></app-small-card>
     </div>
   </div>
 </main>
