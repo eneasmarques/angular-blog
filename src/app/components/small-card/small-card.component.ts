@@ -9,4 +9,5 @@ export class SmallCardComponent {
   @Input() isLastCard: boolean = false;
   @Input() photoCover: string = '';
   @Input() cardTitle: string = '';
+  @Input() id: string = '0';
 }
