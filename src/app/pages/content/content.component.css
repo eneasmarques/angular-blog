@@ -40,5 +40,12 @@
 @media screen and (max-width: 576px) {
   .container__content {
     margin-right: 0;
+
+    display: flex;
+    flex-direction: column;
+  }
+
+  .content__cover {
+    width: 100%;
   }
 }
