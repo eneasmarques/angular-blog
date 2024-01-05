@@ -1,9 +1,10 @@
-.container__menu-tile {
+.container__menu-title {
   border-top: 0.094rem solid #202020;
   border-bottom: 0.094rem solid #202020;
+  margin-bottom: 2rem;
 }
 
-.container__menu-tile > h1 {
+.container__menu-title > h1 {
   display: flex;
   justify-content: center;
 

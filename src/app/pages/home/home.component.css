@@ -1,6 +1,5 @@
 .container__articles {
   display: flex;
-  margin-top: 2rem;
 }
 
 .articles__others {
