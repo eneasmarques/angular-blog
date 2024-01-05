@@ -1,5 +1,4 @@
 .container__content {
-  border-bottom: 0.094rem solid #202020;
   width: 100%;
 }
 
@@ -26,17 +25,16 @@
 }
 
 .content__button-home {
-  /* font-size: 1rem; */
   margin-right: 1rem;
   line-height: 2.5rem;
 
-  border: 0.1rem solid #202020;
-  border-radius: 1rem;
-  padding: 0 0.3rem;
+  border-bottom: 0.1rem solid #202020;
+  padding: 0.5rem;
 }
 
 .content__button-home:hover {
-  border: 0.09rem solid #6d6d6d;
+  outline-offset: 0;
+  border-bottom: 0.09rem solid #6d6d6d;
 }
 
 @media screen and (max-width: 576px) {
