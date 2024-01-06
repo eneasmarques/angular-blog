@@ -1,6 +1,24 @@
-# AngularBlog
+<h1 align="center"> AngularBlog </h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.11.
+<p align="center">
+Desafio do curso Desenvolvimento Frontend com Angular da DIO
+</p>
+
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>
+</p>
+
+<br>
+<p id="layout" align="center">
+  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+</p>
+
+## Tecnologias
+
+Esse projeto foi desenvolvido com a seguinte tecnologia:
+
+- [Angular CLI](https://github.com/angular/angular-cli) version 16.2.11.
 
 ## Development server
 
