@@ -16,9 +16,12 @@ Desafio do curso Desenvolvimento Frontend com Angular da DIO
 
 ## Tecnologias
 
-Esse projeto foi desenvolvido com a seguinte tecnologia:
+Esse projeto foi desenvolvido com a seguintes tecnologias:
 
 - [Angular CLI](https://github.com/angular/angular-cli) version 16.2.11.
+- HTML
+- CSS
+- TypeScript
 
 ## Development server
 
